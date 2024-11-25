@@ -11,6 +11,9 @@ Installing the project. Everything you need here.
 1. Create a default module. So it's easier to understand how a module works.
 1. Create a setup.py
 
+1. If folder is empty, create a __init__.py file.
+1. Automatically add inside __all__ = ['module1', 'module2'] for every file inside the folder.
+
 ### Virtual environment 
 1. Create a venv `python -m venv .venv` <!-- Name the folder whatever you want. -->
 1. Activate it
