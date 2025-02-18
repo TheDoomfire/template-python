@@ -5,7 +5,9 @@ Template for python projects. Not completed
 ## Installations
 Installing the project. Everything you need here.
 
-### TODO
+### Template TODO
+Perhaps looks for other ways to do a virtual enviroment + requirements file.
+
 1. Create automatic .venv activation.
 1. Create automatic requirements file.
 1. Create a default module. So it's easier to understand how a module works.
