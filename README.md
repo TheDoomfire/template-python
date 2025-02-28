@@ -6,6 +6,11 @@ Template for python projects. Not completed
 Installing the project. Everything you need here.
 
 ### Template TODO
+
+Create my own libraries and import them.
+Make a utils folder with a config.py.
+
+
 Perhaps looks for other ways to do a virtual enviroment + requirements file.
 
 1. Create automatic .venv activation.
